@@ -80,6 +80,7 @@
     <!-- last child  -->
     <div class="bg-dark text-center p-4 footer">
         <p style="color: whitesmoke;">Amila Janaka</p>
+        <p>git pushed</p>
     </div>
     <!-- end of last child  -->
 
