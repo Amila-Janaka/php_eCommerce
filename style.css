@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: rgb(255, 255, 255); */
+}
+
+.logo {
+    width: 7%;
+    height: 7%;
+}
+
+.admin_image{
+    width: 100px;
+    object-fit: contain;
+}
+
+.navBar {
+    color: rgb(0, 0, 0);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: contain;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+}
